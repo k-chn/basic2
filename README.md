@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 # basic2
-trying out stuff ...
 =======
 # 🤖 MCP Job Matcher
 
