@@ -175,23 +175,7 @@ mcp-job-matcher/
 - **Mobile App**: React Native mobile interface
 - **Analytics Dashboard**: Advanced reporting and visualization
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙋‍♂️ Support
-
-For questions or support, please open an issue in the GitHub repository or contact the development team.
 
 ---
-
-**Built with ❤️ using Model Context Protocol (MCP) Architecture**
->>>>>>> 7c2373f (Initial commit for basic2)
