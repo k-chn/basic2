@@ -1,0 +1,24 @@
+[
+  {
+    "id": "resume_1",
+    "user_id": "user_1",
+    "name": "John Smith",
+    "email": "john.smith@email.com",
+    "skills": ["Python", "Machine Learning", "SQL", "AWS", "Docker"],
+    "experience": "Senior Software Engineer with 5 years of experience in developing scalable web applications and machine learning systems. Led a team of 4 developers in building a recommendation engine that increased user engagement by 30%.",
+    "education": "Master of Science in Computer Science from Stanford University",
+    "raw_text": "John Smith\njohn.smith@email.com\n\nEXPERIENCE\nSenior Software Engineer at TechCorp (2019-2024)\n- Led development of recommendation engine\n- Managed team of 4 developers\n- Increased user engagement by 30%\n\nSKILLS\nPython, Machine Learning, SQL, AWS, Docker\n\nEDUCATION\nMaster of Science in Computer Science, Stanford University",
+    "embedding": null
+  },
+  {
+    "id": "resume_2",
+    "user_id": "user_2",
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@email.com",
+    "skills": ["React", "Node.js", "JavaScript", "MongoDB", "GraphQL"],
+    "experience": "Full Stack Developer with 3 years of experience building modern web applications. Specialized in React and Node.js development with expertise in creating responsive user interfaces and RESTful APIs.",
+    "education": "Bachelor of Science in Software Engineering from MIT",
+    "raw_text": "Sarah Johnson\nsarah.johnson@email.com\n\nEXPERIENCE\nFull Stack Developer at WebSolutions (2021-2024)\n- Built responsive web applications\n- Developed RESTful APIs\n- Worked with React and Node.js\n\nSKILLS\nReact, Node.js, JavaScript, MongoDB, GraphQL\n\nEDUCATION\nBachelor of Science in Software Engineering, MIT",
+    "embedding": null
+  }
+]

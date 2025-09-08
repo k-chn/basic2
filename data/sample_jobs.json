@@ -1,0 +1,38 @@
+[
+  {
+    "id": "job_1",
+    "employer_id": "employer_1",
+    "title": "Senior Python Developer",
+    "company": "DataTech Solutions",
+    "description": "We are looking for a Senior Python Developer to join our data science team. The ideal candidate will have experience with machine learning, data analysis, and cloud platforms. You will be responsible for developing scalable data processing pipelines and machine learning models.",
+    "requirements": ["Python", "Machine Learning", "SQL", "AWS", "5+ years experience"],
+    "location": "San Francisco, CA",
+    "salary_range": "$120,000 - $160,000",
+    "job_type": "Full-time",
+    "embedding": null
+  },
+  {
+    "id": "job_2",
+    "employer_id": "employer_2",
+    "title": "Frontend React Developer",
+    "company": "StartupXYZ",
+    "description": "Join our fast-growing startup as a Frontend React Developer. You'll work on building beautiful, responsive user interfaces and collaborate closely with our design and backend teams. We're looking for someone passionate about creating great user experiences.",
+    "requirements": ["React", "JavaScript", "HTML/CSS", "Git", "2+ years experience"],
+    "location": "Remote",
+    "salary_range": "$80,000 - $110,000",
+    "job_type": "Full-time",
+    "embedding": null
+  },
+  {
+    "id": "job_3",
+    "employer_id": "employer_1",
+    "title": "Full Stack Engineer",
+    "company": "TechCorp",
+    "description": "We're seeking a Full Stack Engineer to work on our core platform. You'll be involved in both frontend and backend development, working with modern technologies like React, Node.js, and cloud services. Great opportunity for growth and learning.",
+    "requirements": ["React", "Node.js", "JavaScript", "MongoDB", "Docker", "3+ years experience"],
+    "location": "New York, NY",
+    "salary_range": "$100,000 - $140,000",
+    "job_type": "Full-time",
+    "embedding": null
+  }
+]
